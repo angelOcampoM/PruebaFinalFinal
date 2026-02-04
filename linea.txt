@@ -1,3 +1,7 @@
 base
 verde commit 1
+<<<<<<< HEAD
 morada commit 1
+=======
+verde commit 2
+>>>>>>> fac/i20233tn058-002
